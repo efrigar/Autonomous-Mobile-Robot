@@ -4,4 +4,4 @@ Project similar to MIT duckie town where the robot has to drive through the city
 
 The project was developed alongside [Sergio Gasquez Arcos](https://github.com/SergioGasquez).
 
-[![Autonomous Mobile Robot](https://img.youtube.com/vi/fmRb8JX7574/0.jpg)](https://youtu.be/fmRb8JX7574)
+[![Autonomous Mobile Robot](https://img.youtube.com/vi/fmRb8JX7574/0.jpg)](https://www.youtube.com/watch?v=w4J9iOiNZg0)
